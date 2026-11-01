@@ -4,7 +4,7 @@ Sistema distribuido basado en Spring Boot 3 y Docker, preparado para despliegue 
 
 ---
 
-## 🏛️ Arquitectura de Microservicios
+## Arquitectura de Microservicios
 
 | Componente | Puerto Host | Base de Datos | Responsabilidad |
 |---|---|---|---|
@@ -16,7 +16,7 @@ Sistema distribuido basado en Spring Boot 3 y Docker, preparado para despliegue 
 
 ---
 
-## 🐳 Despliegue con Docker
+## Despliegue con Docker
 
 ### Requisitos previos
 * Docker Desktop instalado y en ejecución.
@@ -46,7 +46,7 @@ docker compose logs -f [ms-usuarios | ms-lugares | ms-eventos | ms-compras]
 
 ---
 
-## 📡 Endpoints Principales
+## Endpoints Principales
 
 ### `ms-usuarios` (`:8081`)
 * `POST /usuarios/alta_usuario`
