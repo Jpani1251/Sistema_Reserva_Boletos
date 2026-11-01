@@ -1,10 +1,10 @@
-# ☁️ Guía de Despliegue en Azure (Azure for Students)
+# Guía de Despliegue en Azure (Azure for Students)
 
 Esta carpeta contiene la automatización completa para desplegar el proyecto en la nube de Microsoft Azure utilizando **Azure Container Apps (ACA)** y **Azure Database for MySQL Flexible Server**, optimizado específicamente para cuidar tu saldo de **Azure for Students** ($100 USD anuales).
 
 ---
 
-## 🏛️ Arquitectura en Azure
+## Arquitectura en Azure
 
 ```text
                                 [ INTERNET ]
@@ -67,7 +67,7 @@ c:\Users\USUARIO\Desktop\proyecto_azure_docker
 
 ---
 
-## 🧹 Limpieza (Para no gastar créditos)
+## Limpieza (Para no gastar créditos)
 
 Cuando termines tu entrega, exposición o evaluación del proyecto, ejecuta:
 
